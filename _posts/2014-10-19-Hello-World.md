@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: I am up and running, as always!
 ---
 
 The easiest way to make your blogs is with [Jekyll](http://jekyllrb.com/). 
