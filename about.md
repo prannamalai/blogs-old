@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An avid reader, action movie buff, husband to my wife and father to my son ... 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+From Chennai. Spend time reading random stuff. Love Technology, Gadgets. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+prasanna dot annamalai attherateof gmail dot com
