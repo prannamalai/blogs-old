@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 The easiest way to make your blogs is with [Jekyll](http://jekyllrb.com/). 
 
 I followed the instructions [here](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/). 
